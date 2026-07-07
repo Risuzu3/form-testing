@@ -7,4 +7,4 @@ Mainly for trying to learn how does these works.
 Planning to update list:
 1. Proper Home page
 2. Fully functioning login page.
-
+3. Complete version of to do list
